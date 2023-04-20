@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Results summary component</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="wrapper">
+        <section class="result">
+            <h4 class="result__header">Your result</h4>
+            <div class="result__score-circle">
+                <span class="result__score"></span>
+                <span class="result__score-range">of 100</span>
+            </div>
+            <p class="result__message">Great</p>
+            <p class="result__description">
+                Your performance exceed 65% of the people conducting the test here!
+            </p>
+        </section>
+        <section class="summary">
+            <h4 class="summary__header">Summary</h4>
+            <div class="summary__tiles">
+                <div class="summary-tile summary-tile--reaction">
+                    <img class="summary-tile__icon" src="./assets/images/icon-reaction.svg" alt="thunderbolt icon" />
+                    <p class="summary-tile__category">Reaction</p>
+                    <div class="summary-tile__score-wrapper">
+                        <span class="summary-tile__score">80</span>
+                        <span class="summary-tile__score-range">100</span>
+                    </div>
+                </div>
+                <div class="summary-tile summary-tile--memory">
+                    <img class="summary-tile__icon" src="./assets/images/icon-memory.svg" alt="brain icon" />
+                    <p class="summary-tile__category">Memory</p>
+                    <div class="summary-tile__score-wrapper">
+                        <span class="summary-tile__score">92</span>
+                        <span class="summary-tile__score-range">100</span>
+                    </div>
+                </div>
+                <div class="summary-tile summary-tile--verbal">
+                    <img class="summary-tile__icon" src="./assets/images/icon-verbal.svg" alt="chat icon" />
+                    <p class="summary-tile__category">Verbal</p>
+                    <div class="summary-tile__score-wrapper">
+                        <span class="summary-tile__score">61</span>
+                        <span class="summary-tile__score-range">100</span>
+                    </div>
+                </div>
+                <div class="summary-tile summary-tile--visual">
+                    <img class="summary-tile__icon" src="./assets/images/icon-visual.svg" alt="eye icon" />
+                    <p class="summary-tile__category">Visual</p>
+                    <div class="summary-tile__score-wrapper">
+                        <span class="summary-tile__score">73</span>
+                        <span class="summary-tile__score-range">100</span>
+                    </div>
+                </div>
+            </div>
+            <button class="summary__continue-button">Continue</button>
+        </section>
+    </main>
+</body>
+</html>
