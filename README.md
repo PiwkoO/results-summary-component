@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/results-summary-component-3CZbIrOGcr)
+- [Live preview](https://piwkoo.github.io/results-summary-component/)
 
 ## My process
 
@@ -65,9 +65,7 @@ Below is piece of code that is responsible for implementing animation:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+In future projects I would like to focus on pure CSS animations and CSS abilities because it has a lot to offer without Javascript.
 
 ### Useful resources
 
