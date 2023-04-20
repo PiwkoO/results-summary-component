@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
 @font-face {
   font-family: 'Hanken Grotesk';
-  src: url('https://fonts.google.com/specimen/Hanken+Grotesk');
+  font-weight: 500;
 }
 
 * {
@@ -38,7 +40,6 @@
 html {
   font-family: 'Hanken Grotesk', 'Helvetica', sans-serif;
   font-size: 10px;
-  font-weight: 500;
 }
 
 body {
