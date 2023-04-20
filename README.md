@@ -65,7 +65,7 @@ Below is piece of code that is responsible for implementing animation:
 
 ### Continued development
 
-In future projects I would like to focus on pure CSS animations and CSS abilities because it has a lot to offer without Javascript.
+In the future projects I would like to focus on pure CSS animations and CSS abilities because it has a lot to offer without Javascript.
 
 ### Useful resources
 
